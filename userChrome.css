@@ -109,6 +109,8 @@ tab:not([selected]):hover .tab-background {
   padding-top: 10px !important;
 }
 
+#titlebar {display:none !important;} 
+
 #urlbar {
   /*border-radius: calc(1px + var(--button-corner-rounding)) !important;*/
   height: 30px;
